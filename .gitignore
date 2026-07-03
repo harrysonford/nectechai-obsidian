@@ -1,0 +1,14 @@
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Obsidian local workspace/cache
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/plugins/*/data.json
+
+# Temporary files
+*.tmp
+*.bak
