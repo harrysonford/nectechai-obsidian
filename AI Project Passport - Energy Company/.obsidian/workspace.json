@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Главная.md",
+                "file": "14 - План интервью.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 - Главная"
+              "title": "14 - План интервью"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Главная.md",
+                "file": "14 - План интервью.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 00 - Главная"
+              "title": "Backlinks for 14 - План интервью"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Главная.md",
+                "file": "14 - План интервью.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 00 - Главная"
+              "title": "Outgoing links from 14 - План интервью"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Главная.md",
+                "file": "14 - План интервью.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 00 - Главная"
+              "title": "Outline of 14 - План интервью"
             }
           }
         ]
@@ -185,8 +185,11 @@
   },
   "active": "e2a2f511760a17bd",
   "lastOpenFiles": [
-    "14 - План интервью.md",
     "00 - Главная.md",
+    "templates/Шаблон интервью ИТ.md",
+    "templates/Шаблон интервью ИБ.md",
+    "templates/Шаблон AI-сценария.md",
+    "14 - План интервью.md",
     "12 - Roadmap внедрения.md",
     "13 - Черновик паспорта проекта.md",
     "07 - Реестр AI-сценариев.md",
